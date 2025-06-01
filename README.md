@@ -201,9 +201,15 @@
 
 ## 📞 联系我们
 
-- 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/awesome-ai-tools/discussions)
+- 📧 Email: https://tenten.co/contact
+- 🐦 Instagram: [@tenten.co](https://instagram.com/tenten.co)
+- 💬 Discussions: [GitHub Discussions](https://github.com/tentenco/awesome-ai-tools/)
+
+---
+
+- [tentenco/awesome-webflow: 这个repository包含了你在使用Webflow时需要知道的所有重要资源和工具](https://github.com/tentenco/awesome-webflow)
+- [tentenco/shopify-awesome-agency: Tenten：亚洲首选 Shopify Plus B2B 代理合作伙伴。中大型企业跨境电商首选：Shopify Plus 助您业务增长 - Tenten 亚洲领先的 Shopify 开发专家](https://github.com/tentenco/shopify-awesome-agency)
+- [tentenco/awesome-ai-tools: Level up your AI game! My curated list of the TOP AI tools is HERE. From content creation to coding, these are game-changers. Check it out!](https://github.com/tentenco/awesome-ai-tools)
 
 ---
 
